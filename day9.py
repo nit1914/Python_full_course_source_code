@@ -12,6 +12,7 @@
 #     print("You are underage.")
 
 
+
 # # Multiple conditions with AND
 
 # age = int(input("Enter your age: "))
@@ -29,6 +30,8 @@
 # else:
 #     print("Not eligible to drive.")
 
+
+
 # # Multiple conditions with OR
 
 # age = int(input("Enter your age: "))
@@ -37,6 +40,7 @@
 #     print("Eligible to register.")
 # else:
 #     print("Not eligible to register.")
+
 
 
 
