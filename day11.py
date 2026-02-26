@@ -6,10 +6,8 @@
 
 # 2 Print Characters
 # word = "Python"
-
 # for alphabet in word:
 #     print(alphabet)
-
 # word2 = "SQL"
 # for j in range(1,11):
 #     print(word2)
@@ -20,26 +18,29 @@
 #     print(item)
 
 # # 4 Even numbers
-
 # print("print even numbers from 0 to 20")
 # for n in range(0,21,2):
 #     print(n)
+
+
 
 # # 5 Odd numbers
 # print("print odd numbers from 1 to 20")
 # for n in range(1,21,2):
 #     print(n)
 
-# # 6 Total Calculation
 
+
+# # 6 Total Calculation
 # marks = [78,82,90]
 # total = 0
 # for m in marks:
 #     total += m
 # print("Total:", total)
 
-# # 7 Clean city names
 
+
+# # 7 Clean city names
 # cities = ["MUMbai"," pune  ","  CHENNAI"]
 # cleaned = []
 # for c in cities:
@@ -47,8 +48,8 @@
 # print(cleaned)
 
 
-# # 8 Loop with If Condition
 
+# # 8 Loop with If Condition
 # nums = [5, 12,3,18,7]
 # for n in nums:
 #     if n >10:
@@ -59,7 +60,6 @@
 
 
 # # 9 Loop with If Condition
-
 # nums = [5, 12,3,18,7]
 # for n in nums:
 #     if n % 2 == 0:
@@ -73,3 +73,4 @@
 # for last4 in ids:
 
 #     print(last4[-4:])
+
