@@ -7,11 +7,13 @@
 #     print(i)
 #     i+=1
 
+
 # # 2 Countdown
 # n=10
 # while n>0:
 #     print(n)
 #     n-=1
+
 
 # # 3 Ask user until valid input
 # num = ""
@@ -27,6 +29,7 @@
 #     i+=1    
 
 
+
 # # 5 Using break
 # x = 1
 # while x <= 10:
@@ -36,6 +39,7 @@
 #     x+=1
 
 
+
 # # 6 Using continue
 # x = 0
 # while x < 10:
@@ -43,6 +47,8 @@
 #     if x%2 == 0:
 #         continue
 #     print(x)
+
+
 
 # # 7 Password System (Advanced)
 # password = ""
@@ -56,5 +62,6 @@
 #         print("Incorrect password. Try again, Attempts left:", 3 - attempts)
 # else:
 #     print("Too many failed attempts. Access denied.")
+
 
 
