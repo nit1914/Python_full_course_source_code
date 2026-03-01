@@ -17,7 +17,6 @@
 # colors = ("Red", "Green", "Blue")
 # for c in colors:
 #     print(c)
-
 # Tuples length
 # print(len(colors)) 
 
