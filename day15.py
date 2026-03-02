@@ -3,6 +3,7 @@
 # student = {"name": "John", "age": 25, "courses": ["Math", "CompSci"]}
 # print(student)
 
+
 # # Accessing values
 # print(student["name"])
 # print(student["age"])
@@ -13,6 +14,7 @@
 # student["phone"] = "555-5555"  
 # student["age"] = 26  
 # print(student)
+
 
 
 # # Removing items
@@ -30,6 +32,7 @@
 
 # for k in student:
 #     print(k, student[k])
+
 
 
 # # Nested dictionaries
