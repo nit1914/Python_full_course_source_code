@@ -4,15 +4,20 @@
 # fruits = {"apple", "banana","apple", "cherry"}
 # print(fruits)
 
+
 # # Add items
 # fruits.add("orange")
 # print(fruits)   
+
+
+
 
 # # Remove items
 # fruits.remove("banana") 
 # # OR
 # fruits.discard("banana")
 # print(fruits)
+
 
 # # Set Operations
 # a = {1, 2, 3, 4}
@@ -21,6 +26,8 @@
 # print("Intersection:", a & b)
 # print("Difference:", a - b)
 # print("Symmetric Difference:", a ^ b)
+
+
 
 # # Remove duplicates from a list
 # numbers = [1, 2, 2, 3, 4, 4, 5]
@@ -33,6 +40,8 @@
 # list2 = {"Sql","Python"}
 # missing = list1 - list2
 # print("missing:", missing)
+
+
 
 # # Common skills
 # deptA = {"Sql","Excel","Python"}
