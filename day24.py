@@ -1,10 +1,10 @@
 # Day 24 - PANDAS COMPLETE PRACTICE FILE
 
-import pandas as pd
+# import pandas as pd
 
 # 1. LOAD CSV FILE
 
-df = pd.read_csv("day24_Employee_Data.csv")
+# df = pd.read_csv("day24_Employee_Data.csv")
 # print("\n--- Raw Data ---")
 # print(df.head())
 # print("\n --- Output ---")
@@ -113,4 +113,5 @@ df = pd.read_csv("day24_Employee_Data.csv")
 # # # # 9. EXPORT CLEANED DATA - Sort by Salary (Descending)
 # df_sorted_salary = df.sort_values("Salary", ascending=False)
 # # print(df_sorted_salary)
+
 # df_sorted_salary.to_csv("employee_sorted_by_salary.csv", index=False)
