@@ -1,8 +1,8 @@
-import pandas as pd
-from datetime import datetime
+# import pandas as pd
+# from datetime import datetime
 
 # Load CSV
-df = pd.read_csv("day24_Employee_Data.csv")
+# df = pd.read_csv("day24_Employee_Data.csv")
 
 # # 1. Clean names and cities (trim spaces, proper-case)
 # df['Employee_Name'] = df['Employee_Name'].astype(str).str.strip().str.title()
@@ -24,4 +24,5 @@ df = pd.read_csv("day24_Employee_Data.csv")
 # print(df.head())
 
 # # Save cleaned file (optional)
+
 # df.to_csv("day24_Employee_Data_Cleaned.csv", index=False)
